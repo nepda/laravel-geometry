@@ -7,13 +7,6 @@
 
 Wrapper over the geoPHP Class to make it integrate with Laravel better.
 
-## Build Status
-
-| Branch | Status | Coverage | Code Quality |
-| ------ | :----: | :------: | :----------: |
-| Develop | [![Build Status](https://github.com/spinen/laravel-geometry/workflows/CI/badge.svg?branch=develop)](https://github.com/spinen/laravel-geometry/workflows/CI/badge.svg?branch=develop) | [![Code Coverage](https://scrutinizer-ci.com/g/spinen/laravel-geometry/badges/coverage.png?b=develop)](https://scrutinizer-ci.com/g/spinen/laravel-geometry/?branch=develop) | [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/spinen/laravel-geometry/badges/quality-score.png?b=develop)](https://scrutinizer-ci.com/g/spinen/laravel-geometry/?branch=develop) |
-| Master | [![Build Status](https://github.com/spinen/laravel-geometry/workflows/CI/badge.svg?branch=master)](https://github.com/spinen/laravel-geometry/workflows/CI/badge.svg?branch=master) | [![Code Coverage](https://scrutinizer-ci.com/g/spinen/laravel-geometry/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/spinen/laravel-geometry/?branch=master) | [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/spinen/laravel-geometry/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/spinen/laravel-geometry/?branch=master) |
-
 ***
 
 ## Prerequisite
